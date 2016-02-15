@@ -1,14 +1,54 @@
 % SRD_V1.tex - Software Requirements Document for CS495
 % Last Updated: 2-15-16
 
-%may want to add a title
+%preamble section (?)
+%-----------------------------%
+
+% Adding own custom commands
+%none yet!
+
+%indent first package
+%\usepackage{indentfirst}
+
 \documentclass[12pt,a4paper,onesie,titlepage,draft]{article}
+%-----------------------------%
 
 \begin{document}
 \title{Harmedia's Software Requirements Document}
 \author{Christian Brewton, Austin Kelley, Norman Sipp}
-\date{\today}
+\date{Last Updated: \today}
 \maketitle
-Testing this out
+
+\begin{enumerate}
+	\item Introduction
+		\begin{enumerate}
+			\item Purpose \\
+				This document describes the software requirements for a web based video synchronization platform called Harmedia.  This specifications is intended for the designer, developer and maintainer of the Harmedia system.
+			\item Scope \\
+				The Harmedia video synchronization platform \textbf{HVSP} will be a web based platform that is used to synchronize video for multiple clients.  Users will be able to create their own channel and moderate/manage it.  Within each channel there will be a video queue where elected people can remove, insert, and modify videos in the queue.  Furthermore, in every channel there can be a channel guru and they will have access to modified the video being synchronized state.
+			\item Overview of Document \\
+				The remainder of this document will be organized as followed: In the following section there will be definitions that are vital for one to understand how HVSP will work.  Chapter 2 will contain the general descriptions of HVSP.  Lastly, Chapter 3  will identify the specific functional requirements, the external interfaces and the performance requirements of the HVSP.
+			\item Definitions
+				\begin {itemize}
+					\item \textbf{Definition 1} \\
+						\textit{Definition goes here!}
+				\end {itemize}
+		\end{enumerate}
+	\item General Descriptions
+		\begin{itemize}
+			\item User is not logged in: \\
+			\begin{enumerate}
+				\item User can browse public channels, but will not have the ability to chat.
+				\item User can sign in with an existing account.
+				\item User can create a new account.
+				\item \textbf{** will probably go into more detail and add more things here **}
+			\end{enumerate}
+		\item User creates a new account:
+			\begin{enumerate}
+				\item Stuff
+			\end{enumerate}
+		\end {itemize}	
+	\item Requirements
+\end{enumerate}
 \end{document}
 
