@@ -52,7 +52,8 @@ To give a short overview of the functionality of the HVSP the following user sce
 &nbsp;&nbsp;&nbsp;&nbsp; 3.  If no results were found.  Then the system will just display a message stating "No results found!"<br />
 <br />
 &nbsp; <u>_List Rooms By Number of Users in Room:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. User can select an option to list channels by viewer number (both ascending and descending)<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2.  The system will then list channels by first viewer number (either ascending or descending depending on what the user chose) and then if the channels have the same number of viewers it will then sort the ones with the same number of viewers alphabetically.<br />
 <br />
 &nbsp; <u>_Make a New Room:_</u> <br />
 &nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
