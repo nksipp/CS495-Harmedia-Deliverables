@@ -26,14 +26,59 @@ The remainder of this document will be organized as followed: In the following s
 
 ### 2.1. Overview
 To give a short overview of the functionality of the HVSP the following user scenarios are provided:
-* User is not logged in: <br />
-&nbsp; 1. User can browser public channels, but will not have the ability to chat.  <br />
-&nbsp; 2.  User can sign in with an existing account.  <br />
-&nbsp; 3.  User can create a new account  <br />
-** Will probably go into more detail and add more things here **
+<!-- Sipp's Section -->
+* User System <br />
+&nbsp; <u>_Sign Up:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
 <br />
-* User creates new account <br />
-&nbsp; 1.  
+&nbsp; <u>_Log-in:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Log Out:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Remove User:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Set Global User Level:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+<br />
+<!-- Christian's section -->
+* Channel / Room Browser <br />
+&nbsp; <u>_Search For Room By Name:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_List Rooms By Number of Users in Room:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Make a New Room:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+<br />
+<!-- Austin's Section -->
+* Channel/Room General <br />
+&nbsp; <u>_Chat:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Guru:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Owner:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Chat Mod:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Queue Video:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Skip Video:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
+&nbsp; <u>_Pause/Play Video:_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<br />
 
 
 ### 2.2. Product Perspective
