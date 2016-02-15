@@ -1,5 +1,6 @@
-# <center>Harmedia Software Requirements Document</center>
 
+
+# <center>Harmedia Software Requirements Document</center>
 
 ## 1. Introduction
 ### 1.1. Purpose
@@ -20,9 +21,23 @@ The remainder of this document will be organized as followed: In the following s
 </ul>
 
 <hr />
+
 ## 2. General Descriptions
+
 ### 2.1. Overview
+To give a short overview of the functionality of the HVSP the following user scenarios are provided:
+* User is not logged in: <br />
+&nbsp; 1. User can browser public channels, but will not have the ability to chat.  <br />
+&nbsp; 2.  User can sign in with an existing account.  <br />
+&nbsp; 3.  User can create a new account  <br />
+** Will probably go into more detail and add more things here **
+<br />
+* User creates new account <br />
+&nbsp; 1.  
+
+
 ### 2.2. Product Perspective
+
 ### 2.3.  Product Function
 ### 2.4. User Characteristics
 ### 2.5. Assumptions and Dependencies
