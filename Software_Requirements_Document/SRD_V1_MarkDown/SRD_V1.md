@@ -82,8 +82,11 @@ To give a short overview of the functionality of the HVSP the following user sce
 
 
 ### 2.2. Product Perspective
+[This is the need(s) the product will serve, the primary stakeholders, and the developers.  Also note its characteristics]
 
 ### 2.3.  Product Function
+
+
 ### 2.4. User Characteristics
 ### 2.5. Assumptions and Dependencies
 
