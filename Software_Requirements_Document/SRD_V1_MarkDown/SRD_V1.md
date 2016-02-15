@@ -47,10 +47,12 @@ To give a short overview of the functionality of the HVSP the following user sce
 <!-- Christian's section -->
 * Channel / Room Browser <br />
 &nbsp; <u>_Search For Room By Name:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1.  User types in the room he or she wishes to search for and clicks search. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2.  System then searches for rooms that contain either that tag or name includes the string that was inputted and then list them. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3.  If no results were found.  Then the system will just display a message stating "No results found!"<br />
 <br />
 &nbsp; <u>_List Rooms By Number of Users in Room:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. <br />
 <br />
 &nbsp; <u>_Make a New Room:_</u> <br />
 &nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
