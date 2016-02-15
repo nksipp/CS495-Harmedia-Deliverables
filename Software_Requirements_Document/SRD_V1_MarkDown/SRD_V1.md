@@ -55,9 +55,13 @@ To give a short overview of the functionality of the HVSP the following user sce
 &nbsp;&nbsp;&nbsp;&nbsp; 1. User can select an option to list channels by viewer number (both ascending and descending)<br />
 &nbsp;&nbsp;&nbsp;&nbsp; 2.  The system will then list channels by first viewer number (either ascending or descending depending on what the user chose) and then if the channels have the same number of viewers it will then sort the ones with the same number of viewers alphabetically.<br />
 <br />
-&nbsp; <u>_Make a New Room:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+<!-- Should we take into account error cases? -->
+&nbsp; <u>_Make a New Room (channel):_</u> <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1.  User hits the option to create a room (channel). <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2.  This system will then display a form with the fields Room title, a checkbox of whether or not one wants to make room private (room has a password) and if they check the private box a new field will appear that will be a password field.  Lastly, at the bottom of the form there will be a create (submit) button. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3.  If the user successfully created the room a room successfully created message will appear.<br />
 <br />
+<!-- Should I have an edit room option here (or should Austin have that) -->
 <br />
 <!-- Austin's Section -->
 * Channel/Room General <br />
