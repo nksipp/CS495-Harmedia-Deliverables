@@ -29,20 +29,39 @@ To give a short overview of the functionality of the HVSP the following user sce
 <!-- Sipp's Section -->
 * User System <br />
 &nbsp; <u>_Sign Up:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. User is brought to the front page where they are prompted to either login or sign up<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2. User clicks button to Sign up, and is taken to a page to enter their information<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3. User enters basic personal information(Name, Age, Gender, Username, Password, Email)
+into appropriate text field.<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 4. Username is checked against the database to ensure that Username is not already in use. If
+it is, then User is prompted to pick a different Username. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 5. Upon completion of information form, information is entered into database and user is directed
+to home page. <br />
 <br />
 &nbsp; <u>_Log-in:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. User is brougt to front page wher they are prompted to either login or sign up <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2. User enters Username and Password into appropriate text fields and presses "enter" 
+button.<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3. Username and Password combination are checked against database. If there is no match in the 
+database, user is prompted to attempt login again. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 4. If Username and login are valid, User is taken to home page. <br />
 <br />
 &nbsp; <u>_Log Out:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. User presses "Log Out" button at the top of the screen <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2. User is prompted to confirm that he would like to log out <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3. If user selects "no" button, he remains on his current page and dialog box closes
+&nbsp;&nbsp;&nbsp;&nbsp; 4. User selects "yes" button, and is taken to the front page. <br />
 <br />
 &nbsp; <u>_Remove User:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. User selects "delete profile" button on their profile page <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2. User is prompted to confirm that he would like to delete his account. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3. User selects "confirm" and User is taken to front page <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 4. User's account information is deleted from Database. <br />
 <br />
 &nbsp; <u>_Set Global User Level:_</u> <br />
-&nbsp;&nbsp;&nbsp;&nbsp; 1. Stuff <br />
-<br />
+&nbsp;&nbsp;&nbsp;&nbsp; 1. System Administrator searches database for particular User. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 2. Administrator sets user privilage to 'admin', allowing them access to all rooms. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; 3. Administrator saves changes, and user has new privilages upon next log in. <br />
 <br />
 <!-- Christian's section -->
 * Channel / Room Browser <br />
